@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "names",
   "version": "1.0.0",
-  "description": "",
+  "description": "Вы проанализировали логи вашей игры и заметили, что многие пользователи используют «мусорные» логины и различные непонятные символы не только в никнеймах, но и в именах. Необходимо с этим что-то делать!",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -31,5 +31,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-27/names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Evgeniy-27/names/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-27/names#readme"
 }
